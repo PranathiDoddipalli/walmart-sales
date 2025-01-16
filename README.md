@@ -50,8 +50,8 @@ This project performs an in-depth analysis of Walmart's sales data to uncover va
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/walmart_sales_sql.git
-   cd walmart_sales_sql
+   git clone https://github.com/PranathiDoddipalli/walmart-sales.git
+   cd walmart-sales
    ```
 
 2. **Install dependencies**
@@ -164,13 +164,12 @@ Detailed analysis findings are available in `reports/sales_analysis_report.md`, 
 
 Pranathi Doddipalli - [pranathidoddipalli@gmail.com](mailto:pranathidoddipalli@gmail.com)
 
-Project Link: [https://github.com/pranathi-doddipalli/walmart_sales_sql](https://github.com/pranathi-doddipalli/walmart_sales_sql)
+Project Link: [https://github.com/PranathiDoddipalli/walmart-sales](https://github.com/PranathiDoddipalli/walmart-sales)
 
-##  Acknowledgments
+## Acknowledgments
 
 - Walmart for the dataset
 - MySQL community for database support
 - Python data science community
 
 ---
-
